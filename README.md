@@ -12,7 +12,7 @@ SQL, Spreadsheets, and Python.
 ## Folder Structure
 
 ```
-Data_Analyst_Assignment/
+Project/
 │
 ├── SQL/
 │   ├── 01_Hotel_Schema_Setup.sql    # Hotel table creation + sample data
